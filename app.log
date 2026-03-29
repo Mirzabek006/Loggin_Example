@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-03-29T08:40:31.775206100Z</date>
+  <millis>1774773631775</millis>
+  <nanos>206100</nanos>
+  <sequence>0</sequence>
+  <logger>pdp.uz.LoggingExampleHandler</logger>
+  <level>INFO</level>
+  <class>pdp.uz.LoggingExampleHandler</class>
+  <method>main</method>
+  <thread>3</thread>
+  <message>Faylga log yozildi</message>
+</record>
+</log>
